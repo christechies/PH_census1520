@@ -3,4 +3,5 @@ This data has been pre-processed and cleaned to fit the needs of a certain study
 a.) 'https://raw.githubusercontent.com/ndejong/philippines-data/master/data/2015%20Population%20Density_web_clean-columns.json'
 b.) 'https://simplemaps.com/data/ph-cities'
 
+The 'ph_cities_1520.csv' is the final product of the comnbined datasets; included necessary data preprocessing steps.
 
